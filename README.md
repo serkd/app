@@ -67,4 +67,5 @@ Possíveis melhorias incluem:
 - Adição de testes estatísticos para comparação de grupos
 - Implementação de visualizações 3D interativas
 
-Autor: Hélio Craveiro Pessoa Júnior
+## Autor
+Hélio Craveiro Pessoa Júnior
